@@ -9,6 +9,6 @@
   "author": "Bishruti Gope",
   "license": "ISC",
   "dependencies": {
-    "tailwindcss": "^1.2.0"
+    "tailwindcss": "^4.2.0"
   }
 }
